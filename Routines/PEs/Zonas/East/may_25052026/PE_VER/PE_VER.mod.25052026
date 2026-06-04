@@ -1,0 +1,20 @@
+
+Mod Ports Card Type                              Model              Serial No.
+--- ----- -------------------------------------- ------------------ -----------
+  7    2  Route Switch Processor 720 (Active)    RSP720-3CXL-GE     SAL1927JA64
+
+
+
+Mod MAC addresses                       Hw   Fw            Sw           Status
+--- ---------------------------------- ----- ------------- ------------ -------
+  7  a0ec.f991.65b4 to a0ec.f991.65b7  6.1   12.2(33r)PCM  15.3(3)S     Ok
+
+
+Mod  Sub-Module                  Model              Serial       Hw     Status
+---- --------------------------- ------------------ ----------- ------- -------
+  7  Policy Feature Card 3       7600-PFC3CXL       SAL1924GT7Q  2.0    Ok
+
+
+Mod  Online Diag Status
+---- -------------------
+  7  Pass
